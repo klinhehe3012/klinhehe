@@ -68,19 +68,19 @@ Tôi sử dụng các công cụ này để phân tích dữ liệu và mô hìn
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+  <a href="https://github.com/klinhehe3012">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   </a>
   
   <br/><br/>
 
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+  <a href="https://github.com/klinhehe3012">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical" alt="Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klinhehe3012&theme=radical" alt="Streak" />
 </div>
 
 ---
