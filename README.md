@@ -69,13 +69,6 @@ Tôi sử dụng các công cụ này để phân tích dữ liệu và mô hìn
 
 <div align="center">
   
-  <a href="https://github.com/klinhehe3012">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=klinhehe3012&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/klinhehe3012">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinhehe3012&layout=compact&theme=gruvbox&hide_border=true" />
-  </a>
 
 </div>
 
