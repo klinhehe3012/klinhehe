@@ -16,7 +16,7 @@
 
 ### 👤 Thông tin cá nhân (Personal Information)
 
-| Trường thông tin | Chi tiết |
+| Thông tin cá nhân |
 | :--- | :--- |
 | **🎓 Họ và tên** | **Thân Khánh Linh** |
 | **🆔 Mã sinh viên** | **2211110217** |
@@ -64,8 +64,6 @@ Tôi sử dụng các công cụ này để phân tích dữ liệu và mô hìn
 </div>
 
 ---
-
-### 📊 My GitHub Stats
 
 ### 📊 My GitHub Stats
 
