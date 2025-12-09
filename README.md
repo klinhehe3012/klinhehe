@@ -2,7 +2,7 @@
   <img src="[LINK_ANH_BANNER_CUA_BAN]" width="100%" alt="Economics & Data Science Banner" />
 </div>
 
-<h1 align="center">Xin chào, tôi là [HỌ VÀ TÊN CỦA BẠN] 👋</h1>
+<h1 align="center">Xin chào, tôi là Thân Khánh Linh 👋</h1>
 
 <div align="center">
 
@@ -18,20 +18,20 @@
 
 | Trường thông tin | Chi tiết |
 | :--- | :--- |
-| **🎓 Họ và tên** | **[HỌ VÀ TÊN CỦA BẠN]** |
-| **🆔 Mã sinh viên** | **[MÃ SỐ SINH VIÊN]** |
-| **📧 Email** | [DIA_CHI_EMAIL_CUA_BAN] |
-| **📱 Số điện thoại** | [SO_DIEN_THOAI_CUA_BAN] |
+| **🎓 Họ và tên** | **Thân Khánh Linh** |
+| **🆔 Mã sinh viên** | **2211110217** |
+| **📧 Email** | k61.2211110217@ftu.edu.vn |
+| **📱 Số điện thoại** | 0828656466 |
 
 ---
 
 ### 🧐 Giới thiệu (About Me)
 
-Tôi là sinh viên năm **[NĂM HỌC]** chuyên ngành **Kinh tế / Tài chính** tại **[TÊN TRƯỜNG ĐẠI HỌC]**. 
+Tôi là sinh viên năm **[NĂM HỌC]** chuyên ngành **Kinh tế / Tài chính** tại **FTU**. 
 
 Khác với những nhà kinh tế học truyền thống, tôi đam mê việc áp dụng **Python** và **Khoa học dữ liệu** để phân tích các biến động thị trường, mô hình hóa tài chính và tối ưu hóa ra quyết định. Tôi tin rằng sự kết hợp giữa tư duy kinh tế cổ điển và công cụ hiện đại là chìa khóa để giải quyết các bài toán phức tạp.
 
-* 🔭 Tôi đang nghiên cứu về: **[CHỦ ĐỀ NGHIÊN CỨU, VÍ DỤ: Kinh tế lượng, Dự báo giá cổ phiếu, v.v.]**
+* 🔭 Tôi đang nghiên cứu về: **Khoa học dữ liệu**
 * 🌱 Tôi đang học sâu hơn về: **Machine Learning & Financial Modeling**.
 * 👯 Tôi sẵn sàng hợp tác trong các dự án về: **Data Analysis, Python Automation**.
 
@@ -69,13 +69,13 @@ Tôi sử dụng các công cụ này để phân tích dữ liệu và mô hìn
 
 <div align="center">
   <a href="https://github.com/klinhehe3012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=klinhehe3012&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   </a>
   
   <br/><br/>
 
   <a href="https://github.com/klinhehe3012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinhehe3012&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
   </a>
   
   <br/><br/>
