@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[LINK_ANH_BANNER_CUA_BAN]" width="100%" alt="Economics & Data Science Banner" />
+  <img src="header.png" width="100%" alt="Economics & Data Science Banner" />
 </div>
 
 <h1 align="center">Xin chào, tôi là Thân Khánh Linh 👋</h1>
