@@ -67,22 +67,25 @@ Tôi sử dụng các công cụ này để phân tích dữ liệu và mô hìn
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/klinhehe3012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=klinhehe3012&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  </a>
   
-  <br/><br/>
+  <a href="https://github.com/klinhehe3012">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=klinhehe3012&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" />
+  </a>
 
   <a href="https://github.com/klinhehe3012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinhehe3012&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klinhehe3012&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
-  
-  <br/><br/>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klinhehe3012&theme=radical" alt="Streak" />
+
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klinhehe3012&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+</div>
 ---
 <div align="center">
   <i>"Trong kinh tế học, hy vọng và niềm tin cùng tồn tại với lòng tham và sự thờ ơ."</i>
